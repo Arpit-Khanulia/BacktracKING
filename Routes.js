@@ -11,8 +11,7 @@ require('dotenv').config();
 
 // middleware
 router.use(cors({
-  credentials:true,
-  origin:'http://localhost:5173'
+  credentials:true
 }))
 
 
