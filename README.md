@@ -23,7 +23,7 @@ Backtracking is an immersive coding website that empowers developers to tackle L
 1. Clone the repository and navigate to the project folder.
 2. Install the required dependencies using `npm install`.
 3. Set up your MongoDB database and provide the connection URL in the configuration file.
-4. Run the backend server using `npm run server`.
+4. Run the backend server using `node index.js`.
 5. Navigate to the frontend folder and install the required dependencies for the frontend using `npm install`.
 7. start the development server with `npm run dev`.
 8. Access the website at `http://localhost:5173` in your web browser.
